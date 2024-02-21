@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohdfaizanahmed
+- 👋 Hi, I’m @Faizan
 - 👀 I’m interested in coding in c
 - 🌱 I’m currently learning web programming
 - 💞️ I’m looking to collaborate on my university
