@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Faizan
-- 👀 I’m interested in coding in c
+- 👀 I’m interested in c
 - 🌱 I’m currently learning web programming
 - 💞️ I’m looking to collaborate on my university
 - 📫 How to reach me ...my email mfaizancse@gmail.com
